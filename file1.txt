@@ -1,2 +1,6 @@
 Hare Krishna
+<<<<<<< HEAD
 Hello World
+=======
+Hello World
+>>>>>>> 3780ae6517be194b03f79cb3a39c453821914445
